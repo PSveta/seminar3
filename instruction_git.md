@@ -40,5 +40,4 @@
 
     git diff
 
-    git checkout \<hash>
-    
+    git checkout <hash>
