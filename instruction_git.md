@@ -22,3 +22,23 @@
 
     git add <имя файла>
     
+    git commit
+
+    git commit -m "message"
+
+    git commit -a
+
+    git commit -am "message"
+
+    git log
+
+    git log --oneline
+
+    git --all
+
+    git --oneline --all
+
+    git diff
+
+    git checkout \<hash>
+    
